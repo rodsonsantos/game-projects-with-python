@@ -27,7 +27,7 @@ Aqui estão os links diretos para você acessar e testar cada jogo no Colab:
     * *Foco no Código:* Múltiplas Condições (`if/elif/else`) para validar todas as combinações.
 
 * **Sorteio de Cores:** [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12qKxne_TY_daJjgWYXEaXy9Vxvrhy9wN?usp=sharing)
-    * *Regra:* Cada jogador recebe uma cor aleatória — sem repetir!
+    * *Regra:* Cada jogador recebe uma cor aleatória. Sem repetir!
     * *Foco no Código:* Uso de shuffle, listas embaralhadas e dicionários.
 ---
 
